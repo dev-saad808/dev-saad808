@@ -61,6 +61,9 @@
 <a href="https://github.com/saad6742988" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saad6742988&theme=github-compact&custom_title=Commits%20%Graph" alt="Commits Graph" /></a>
 
 <a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a>
+<p align="center">
+<a href="https://github.com/saad6742988" align="center"><img width=80% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a>
+</p>
 
 <!---
 saad6742988/saad6742988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
