@@ -7,7 +7,7 @@
 
 *   🌍  I'm based in Germany
 *   ✉️  You can contact me at [ms6742988@gmail.com](mailto:ms6742988@gmail.com)
-*   🚀  I'm currently working on [Weather Buddy](https://github.com/saad6742988/WeatherBuddy)
+*   🚀  I'm currently working on [Compose Widgets](https://github.com/hamzach330/ComposeWidgets)
 *   🧠  I'm learning Compose UI and Avanced Android Architectures
 *   🤝  I'm open to collaborating on Android Projects
 ### Skills
