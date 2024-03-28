@@ -6,6 +6,7 @@
 <p align="center">Dedicated developer committed to crafting impactful solutions and embracing challenges as opportunities for growth and learning.</p>
 
 *   🌍  I'm based in Germany
+*   👨‍💻  Persuing Master's Degree in Artificial Intelligence
 *   ✉️  You can contact me at [ms6742988@gmail.com](mailto:ms6742988@gmail.com).
 *   🚀  I'm currently working on [Weather Buddy](https://github.com/saad6742988/WeatherBuddy) And [Compose Widgets](https://github.com/hamzach330/ComposeWidgets).
 *   🧠  I'm learning Compose UI and Avanced Android Architectures.
@@ -17,23 +18,15 @@
 
 
 <p align="center">
-<a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=3&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saad6742988&theme=transparent&show_icons=true&langs_count=5&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
-<a href="https://github.com/saad6742988" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saad6742988&theme=github-compact&custom_title=Commits%20%Graph" alt="Commits Graph" /></a>
-<!---
-<table border="none" >
-     <tr>
-          <td><p align="center">
-<a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a>
-</p></td>
-        <td width="70%"><a href="https://github.com/saad6742988"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saad6742988&theme=github-compact&custom_title=Commits%20%Graph" alt="Commits Graph" /></a></td>
-        
-</tr>
-</table>
---->
-<!---
-<a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=10&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a>
---->
+<a href="https://github.com/saad6742988" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saad6742988&theme=github-compact&hide_border=true&custom_title=Commits%20%Graph" alt="Commits Graph" /></a>
+
+
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saad6742988&theme=transparent&hide_border=true&show_icons=true&locale=en&custom_title=My%20%Stats" alt="Stats" style="margin-top: 0px" /></p>
 
 ### Socials
                   
