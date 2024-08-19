@@ -8,7 +8,7 @@
 *   🌍  I'm based in Germany
 *   👨‍💻  Persuing Master's Degree in Artificial Intelligence
 *   ✉️  You can contact me at [ms6742988@gmail.com](mailto:ms6742988@gmail.com).
-*   🚀  I'm currently working on [Vue.js](https://github.com/saad6742988/Vue-Hello-World) And [Machine Learning](https://github.com/saad6742988/Machine-Learnig-Basics).
+*   🚀  I'm currently working on [Vue.js](https://github.com/saad6742988/VUE) And [Machine Learning](https://github.com/saad6742988/Machine-Learnig-Basics).
 *   🧠  I'm learning Machine Learning and Vue.js.
 *   🤝  I'm open to collaborating on Android or Web Projects.
 ### Skills
