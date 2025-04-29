@@ -7,8 +7,8 @@
 
 *   🌍  I'm based in Germany
 *   👨‍💻  Persuing Master's Degree in Artificial Intelligence
-*   ✉️  You can contact me at [ms6742988@gmail.com](mailto:ms6742988@gmail.com).
-*   🚀  I'm currently working on [Vue.js](https://github.com/saad6742988/VUE) And [Machine Learning](https://github.com/saad6742988/Machine-Learnig-Basics).
+*   ✉️  You can contact me at [ms6742988@gmail.com](mailto:me.saad808@gmail.com).
+*   🚀  I'm currently working on [Vue.js](https://github.com/dev-saad808/VUE) And [Machine Learning](https://github.com/dev-saad808/Machine-Learnig-Basics).
 *   🧠  I'm learning Machine Learning and Vue.js.
 *   🤝  I'm open to collaborating on Android or Web Projects.
 ### Skills
@@ -18,15 +18,15 @@
 
 
 <p align="center">
-<!-- <a href="https://github.com/saad6742988" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad6742988&langs_count=3&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saad6742988&theme=transparent&show_icons=true&langs_count=5&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" />
+<!-- <a href="https://github.com/dev-saad808" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saad808&langs_count=3&hide_border=true&locale=en&custom_title=Top%20%Languages&theme=transparent" alt="Top Languages" /></a> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-saad808&theme=transparent&show_icons=true&langs_count=5&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top Languages" />
 </p>
-<a href="https://github.com/saad6742988" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=saad6742988&theme=github-compact&hide_border=true&custom_title=Commits%20%Graph" alt="Commits Graph" /></a>
+<a href="https://github.com/dev-saad808" align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-saad808&theme=github-compact&hide_border=true&custom_title=Commits%20%Graph" alt="Commits Graph" /></a>
 
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saad6742988&theme=transparent&hide_border=true&show_icons=true&locale=en&custom_title=My%20%Stats" alt="Stats" style="margin-top: 0px" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-saad808&theme=transparent&hide_border=true&show_icons=true&locale=en&custom_title=My%20%Stats" alt="Stats" style="margin-top: 0px" /></p>
 
 ### Socials
                   
@@ -48,7 +48,7 @@
 </picture>
 </a>
 
-<a href="https://www.github.com/saad6742988" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/dev-saad808" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -73,6 +73,6 @@
 
 
 <!---
-saad6742988/saad6742988 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dev-saad808/dev-saad808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
